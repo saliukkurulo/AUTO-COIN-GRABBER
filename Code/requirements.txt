@@ -1,0 +1,1 @@
+threading, pyautogui, schedule, webbrowser, pygetwindow
